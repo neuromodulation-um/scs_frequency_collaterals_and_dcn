@@ -6,5 +6,6 @@ Rogers, Capogrosso, and Lempka (JNeurosci, 2024) (https://www.jneurosci.org/cont
 
 To create a DCN cell (in python):
 
-from DCN import * //
+from DCN import * 
+
 dcn_Cell = DCN()
