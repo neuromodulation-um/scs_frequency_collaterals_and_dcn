@@ -5,7 +5,8 @@ as described in "Biophysics of Frequency-Dependent Variation in Paresthesia and 
 Rogers, Capogrosso, and Lempka (JNeurosci, 2024) (https://www.jneurosci.org/content/44/26/e2199232024).
 
 To create a DCN cell (in python):
-from DCN import *;
+
+from DCN import *
 
 dcn_Cell = DCN()
 
